@@ -1,0 +1,11 @@
+/.env
+/vendor
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/storage/app/private/uploads/*
+!/storage/app/private/uploads/.gitkeep
+/database/*.sqlite-shm
+/database/*.sqlite-wal
+/bootstrap/cache/*.php
